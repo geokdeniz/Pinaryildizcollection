@@ -1,26 +1,33 @@
-# Pınar Yıldız Collection Web Sitesi
+# 🌟 Pınar Yıldız Collection Web Sitesi 🌟
 
-Bu proje, Pınar Yıldız Collection için hazırlanmış bir web sitesidir. Site, modern web teknolojileri kullanılarak geliştirilmiş ve kullanıcı dostu bir arayüz sunmaktadır. Proje, duyarlı (responsive) tasarım prensipleri ile oluşturulmuş olup mobil cihazlarla uyumludur.
+Bu proje, **Pınar Yıldız Collection** için hazırlanmış modern ve kullanıcı dostu bir web sitesidir. 
+Mobil uyumlu tasarım ve işlevsellik sunarak ziyaretçilerin ihtiyaçlarına hitap eder.
 
-## Özellikler
+---
 
-- **Ana Sayfa:** Slider ve marka tanıtımı için görseller içerir.
-- **Hakkımızda:** Firma bilgilerini ve tarihçesini detaylı bir şekilde sunar.
-- **Galeri:** Ürün veya hizmet görsellerini şık bir şekilde sergiler.
-- **İletişim:** Kullanıcıların firma ile doğrudan iletişime geçmesini sağlayan bir form içerir.
-- **Admin Paneli:** Yalnızca yetkili kullanıcıların erişebileceği giriş ekranı ile yönetim özellikleri sunar.
+## 🚀 Özellikler
 
-## Kullanılan Teknolojiler
+- **🏠 Ana Sayfa:** Marka tanıtımı için dinamik slider içerir.
+- **📖 Hakkımızda:** Firma geçmişi ve bilgileri detaylıca sunulur.
+- **🖼️ Galeri:** Şık bir düzenle görselleri sergiler.
+- **📧 İletişim:** Kullanıcıların firmayla doğrudan iletişime geçmesini sağlar.
+- **🔒 Admin Paneli:** Yetkili kullanıcılar için güvenli giriş ekranı.
 
-- **HTML5 & CSS3:** Web sitesinin temel yapısı ve tasarımı için kullanılmıştır.
-- **Bootstrap Framework:** Duyarlı tasarım ve grid sistemi için kullanılmıştır.
-- **PHP:** İletişim formu ve admin giriş doğrulama işlemleri için kullanılmıştır.
-- **JavaScript & jQuery:** Dinamik işlevsellik ve kullanıcı etkileşimi için kullanılmıştır.
+---
 
-## Kurulum
+## 🛠️ Kullanılan Teknolojiler
 
-Bu projeyi kendi sisteminizde çalıştırmak için aşağıdaki adımları izleyin:
+- **HTML5 & CSS3:** Web sitesinin temel yapısı ve tasarımı.
+- **Bootstrap Framework:** Duyarlı tasarım ve grid sistemi.
+- **PHP:** İletişim formu ve admin giriş işlemleri.
+- **JavaScript & jQuery:** Dinamik işlevsellik ve kullanıcı etkileşimleri.
 
-1. **Projeyi klonlayın:**
+---
+
+## 📥 Kurulum
+
+Bu projeyi kendi sisteminizde çalıştırmak için:
+
+1. **Projeyi Klonlayın:**
    ```bash
    git clone https://github.com/kullaniciadi/pinaryildizcollection.git
